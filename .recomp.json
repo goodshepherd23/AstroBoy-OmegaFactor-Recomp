@@ -10,7 +10,7 @@
     "sha1": "4d652c24979dd7a08ee683b32d1d8986a5511a87"
   },
   "project": "Astro Boy: Omega Factor native Windows port",
-  "status": "released",
+  "status": "playable",
   "targets": ["Windows"],
   "toolchain": "gbarecomp"
 }
