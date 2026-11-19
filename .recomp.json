@@ -1,0 +1,16 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Astro Boy: Omega Factor",
+  "wikidata": "Q751268",
+  "system": "GBA",
+  "type": "recomp",
+  "original": {
+    "region": "USA",
+    "serial": "AGB-BTAE-USA",
+    "sha1": "4d652c24979dd7a08ee683b32d1d8986a5511a87"
+  },
+  "project": "Astro Boy: Omega Factor native Windows port",
+  "status": "released",
+  "targets": ["Windows"],
+  "toolchain": "gbarecomp"
+}
